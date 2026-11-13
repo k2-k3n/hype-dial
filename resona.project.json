@@ -1,0 +1,11 @@
+{
+  "name": "Hype Dial",
+  "id": "org.resona.demo.hype-dial",
+  "version": "0.4.9",
+  "api": 1,
+  "description": "",
+  "kind": "app",
+  "sources": [
+    "src/app.cpp"
+  ]
+}

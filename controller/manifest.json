@@ -1,0 +1,26 @@
+{
+  "controllerVersion": "0.4.0",
+  "enabled": true,
+  "entries": {
+    "mobile": "mobile/index.html",
+    "web": "web/index.html"
+  },
+  "entry": "mobile/index.html",
+  "format": "clcontrol",
+  "id": "org.resona.demo.hype-dial.controller",
+  "interfaces": [
+    "web",
+    "mobile"
+  ],
+  "name": "Hype Dial",
+  "permissions": [
+    "midi"
+  ],
+  "target": {
+    "appId": "org.resona.demo.hype-dial",
+    "appName": "Hype Dial",
+    "appVersion": "0.4.0",
+    "protocolVersion": 1
+  },
+  "version": 1
+}

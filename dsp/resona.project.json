@@ -1,0 +1,12 @@
+{
+  "name": "Hype Engine",
+  "id": "org.resona.demo.hype-engine",
+  "version": "0.3.12",
+  "api": 1,
+  "description": "",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}
