@@ -1,0 +1,31 @@
+{
+  "folder": "07-Hype-Dial",
+  "description": "用双编码器控制电子节奏层、曲风、Build、Drop 和 Stutter。",
+  "app": {
+    "file": "App.rpk",
+    "id": "org.resona.demo.hype-dial",
+    "name": "Hype Dial",
+    "version": "0.4.9",
+    "kind": 1,
+    "bytes": 45212,
+    "sha256": "e541aad599359684fc9677ba430f570d384d4abf5d3f4d85de2fb9294ef9d89b",
+    "crc32": 2242675986
+  },
+  "audio_packs": [
+    {
+      "file": "Audio-Pack.rpk",
+      "id": "org.resona.demo.hype-engine",
+      "name": "Hype Engine",
+      "version": "0.3.12",
+      "kind": 0,
+      "bytes": 22556,
+      "sha256": "bf03119c3444a1fbf974c4ca1e26279bbf33fd2dd62ff03838ed689d304152c2",
+      "crc32": 2070927900
+    }
+  ],
+  "source": "source/",
+  "cover": "source/images/cover.png",
+  "license_file_present": true,
+  "host_build_check": "updated build verified",
+  "community_upload": "not sent"
+}
